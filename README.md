@@ -1,3 +1,6 @@
+## Manaegement System
+이 프로젝트에는 리액트로 관리시스템을 만드는 코드를 저장했습니다.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
